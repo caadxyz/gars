@@ -10,56 +10,68 @@
 
 现评审委员会公示获奖名单(公示期为15天)如下：  
 
+一等奖
 
-一等奖 A：19432: http://www.ikuku.cn/post/81847   
-一等奖 B：12356: http://www.ikuku.cn/post/80013   
+First-prize
 
-二等奖(4名,排名不分顺序):     
-19505 http://www.ikuku.cn/post/81091    
-19539 http://www.ikuku.cn/post/83345    
-18094 http://www.ikuku.cn/post/75561    
-19626 http://www.ikuku.cn/post/81341    
+A：19432: http://www.ikuku.cn/post/81847  
+B：12356: http://www.ikuku.cn/post/80013  
 
-三等奖(10名,排名不分顺序):     
-17671 http://www.ikuku.cn/post/76740     
-18459 http://www.ikuku.cn/post/77072     
-19493 http://www.ikuku.cn/post/81611     
-19592 http://www.ikuku.cn/post/81194   
-18260 http://www.ikuku.cn/post/81111   
-19102 http://www.ikuku.cn/post/81609   
-18834 http://www.ikuku.cn/post/80107   
-19469 http://www.ikuku.cn/post/80625   
-17840 http://www.ikuku.cn/post/75702   
-18470 http://www.ikuku.cn/post/77936   
 
-入围名单(24名，排名不分顺序):   
-17856 http://ikuku.cn/post/74602   
-19465 http://ikuku.cn/post/80624   
-19106 http://ikuku.cn/post/82085   
-18980 http://www.ikuku.cn/post/79081   
-17725 http://www.ikuku.cn/post/76071   
-19536 http://www.ikuku.cn/post/81094   
-19054 http://www.ikuku.cn/post/79392   
-4093 http://www.ikuku.cn/post/85214   
-19392 http://www.ikuku.cn/post/80424   
-18845 http://www.ikuku.cn/post/81908   
-18978 http://www.ikuku.cn/post/79254   
-19666 http://www.ikuku.cn/post/81623   
-19608 http://www.ikuku.cn/post/81217   
-18807 http://www.ikuku.cn/post/81291   
-19549 http://www.ikuku.cn/post/81108   
-19769 http://www.ikuku.cn/post/82576   
-19280 http://www.ikuku.cn/post/87356   
-12706 http://www.ikuku.cn/post/81179   
-18017 http://www.ikuku.cn/post/75343   
-18610 http://www.ikuku.cn/post/80944   
-18133 http://www.ikuku.cn/post/75744   
-18550 http://www.ikuku.cn/post/77449   
-18625 http://www.ikuku.cn/post/78685   
-9419 http://www.ikuku.cn/post/78556   
+二等奖(4名,排名不分顺序):
+
+Second-prize
+
+19505 http://www.ikuku.cn/post/81091  
+19539 http://www.ikuku.cn/post/83345  
+18094 http://www.ikuku.cn/post/75561  
+(不显示)  
+
+三等奖(10名,排名不分顺序):
+
+Third-prize
+
+(不显示)   
+(不显示)  
+19493 http://www.ikuku.cn/post/81611  
+19592 http://www.ikuku.cn/post/81194 
+18260 http://www.ikuku.cn/post/81111  
+19102 http://www.ikuku.cn/post/81609  
+(不显示)  
+19469 http://www.ikuku.cn/post/80625  
+(不显示)   
+17840 http://www.ikuku.cn/post/75702  
+
+入围名单(24名，排名不分顺序):
+
+Nominees
+
+(不显示)  
+(不显示)  
+(不显示)  
+(不显示)  
+17725 http://www.ikuku.cn/post/76071  
+(不显示)  
+(不显示)  
+4093 http://www.ikuku.cn/post/85214  
+19392 http://www.ikuku.cn/post/80424  
+18845 http://www.ikuku.cn/post/81908  
+(不显示)  
+(不显示)  
+(不显示)  
+(不显示)  
+19549 http://www.ikuku.cn/post/81108  
+19769 http://www.ikuku.cn/post/82576  
+19280 http://www.ikuku.cn/post/87356  
+12706 http://www.ikuku.cn/post/81179  
+18017 http://www.ikuku.cn/post/75343  
+18610 http://www.ikuku.cn/post/80944  
+(不显示)  
+18550 http://www.ikuku.cn/post/77449  
+(不显示)  
+(不显示)  
 
 *注: 基于AB有效作品提交数量及质量的实际情况，评委终选除一等奖AB类型各一个之外，其他奖项及入围名单AB类型不作区分。   
-
 
 附件： 所有提交的有效作品名单  
 
@@ -146,59 +158,7 @@ A 类别一等奖方案通过一个关键节点的精准介入，利用节点设
 ——Sujeet Babu Shrestha  
 
 
-
--------  
-
-
-
-**AWARDS LIST (Publicity for 15 days)**  
-
-First-prize of Category A：19432: http://www.ikuku.cn/post/81847  
-First-prize of Category B：12356: http://www.ikuku.cn/post/80013  
-
-Second-prize  
-19505 http://www.ikuku.cn/post/81091   
-19539 http://www.ikuku.cn/post/83345   
-18094 http://www.ikuku.cn/post/75561   
-19626 http://www.ikuku.cn/post/81341  
-
-Third-prize  
-17671 http://www.ikuku.cn/post/76740   
-18459 http://www.ikuku.cn/post/77072   
-19493 http://www.ikuku.cn/post/81611   
-19592 http://www.ikuku.cn/post/81194   
-18260 http://www.ikuku.cn/post/81111   
-19102 http://www.ikuku.cn/post/81609  
-18834 http://www.ikuku.cn/post/80107   
-19469 http://www.ikuku.cn/post/80625   
-17840 http://www.ikuku.cn/post/75702   
-18470 http://www.ikuku.cn/post/77936  
-
-Nominees  
-17856 http://ikuku.cn/post/74602   
-19465 http://ikuku.cn/post/80624   
-19106 http://ikuku.cn/post/82085   
-18980 http://www.ikuku.cn/post/79081   
-17725 http://www.ikuku.cn/post/76071   
-19536 http://www.ikuku.cn/post/81094   
-19054 http://www.ikuku.cn/post/79392   
-4093 http://www.ikuku.cn/post/85214   
-19392 http://www.ikuku.cn/post/80424   
-18845 http://www.ikuku.cn/post/81908   
-18978 http://www.ikuku.cn/post/79254   
-19666 http://www.ikuku.cn/post/81623   
-19608 http://www.ikuku.cn/post/81217   
-18807 http://www.ikuku.cn/post/81291   
-19549 http://www.ikuku.cn/post/81108   
-19769 http://www.ikuku.cn/post/82576   
-19280 http://www.ikuku.cn/post/87356   
-12706 http://www.ikuku.cn/post/81179   
-18017 http://www.ikuku.cn/post/75343   
-18610 http://www.ikuku.cn/post/80944   
-18133 http://www.ikuku.cn/post/75744   
-18550 http://www.ikuku.cn/post/77449   
-18625 http://www.ikuku.cn/post/78685   
-9419 http://www.ikuku.cn/post/78556  
+-----
 
 **The praise of the judges:**  
 

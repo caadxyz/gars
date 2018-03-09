@@ -7,5 +7,4 @@
 1. [获奖名单](winner-list.md)
 1. [作品列表](list.md)
 1. [媒体报道](media.md)
-1. [志愿者行动](volunteer.md)
 1. [大事记](log.md)
